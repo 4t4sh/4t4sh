@@ -11,7 +11,7 @@ const Home: FC<{}> = () => (
     <main className="md:flex bg-white rounded-lg p-24 justify-center">
       <img
         className="h-16 w-16 md:h-24 md:w-24 rounded-full mx-auto md:mx-0 md:mr-6"
-        src="photo_4t4sh.jpg"
+        src="images/photo_4t4sh.jpg"
       />
       <div className="text-center md:text-left">
         <h2 className="text-lg">Ata Sánchez (4t4sh)</h2>
